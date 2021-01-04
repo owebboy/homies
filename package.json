@@ -10,9 +10,9 @@
   "private": true,
   "version": "0.7.0",
   "dependencies": {
-    "ghost": "0.7.0",
+    "ghost": "3.40.2",
     "ghost-s3-storage": "~0.2.1",
-    "pg": "latest"
+    "pg": "^8.5.1"
   },
   "engines": {
     "node": "~0.10.0"
